@@ -1,4 +1,4 @@
-# README for FakeShop-Redux
+# FakeShop-Redux
 
 FakeShop-Redux is a simple e-commerce web application built using React and Redux.
 
